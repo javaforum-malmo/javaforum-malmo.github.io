@@ -6,7 +6,7 @@ Javaforum Malmö is the Java User Group in Malmö, Sweden. Join our [mailing lis
 
 ### Organizer
 
-[Ivar Grimstad](https://www.linkedin.com/in/ivargrimstad/)
+- [Ivar Grimstad](https://www.linkedin.com/in/ivargrimstad/) \
 Reach out to me if you are interested in speaking at **Javaforum Malmö**.
 
 ## Events

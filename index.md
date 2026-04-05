@@ -20,7 +20,13 @@ Reach out to me if you are interested in speaking at **Javaforum Malmö**.
 - [ X ](https://x.com/javaforum)
 - [LinkedIn (Javaforum Sweden)](https://www.linkedin.com/groups/128453/)
 
-## Resources
+## Other Java User Groups
 
+### Sweden
+- [Jforum Stockholm](https://www.meetup.com/jforum-stockholm/)
+- [Javaforum Göteborg](https://www.meetup.com/javaforum-goteborg/)
+- [Umedev Community](https://www.meetup.com/umejug/)
+
+### World Wide
 - [Java User Groups](https://dev.java/community/jugs/)
 - [Worldwide list of Java User Groups](https://world-wide-jugs.github.io/GlobalWWJugs/)

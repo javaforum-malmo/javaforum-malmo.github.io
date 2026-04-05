@@ -28,5 +28,5 @@ Reach out to me if you are interested in speaking at **Javaforum Malmö**.
 - [Umedev Community](https://www.meetup.com/umejug/)
 
 ### World Wide
-- [Java User Groups](https://dev.java/community/jugs/)
+- [Java User Groups](https://dev.java/community/jugs/) ([Dev.java](https://dev.java/))
 - [Worldwide list of Java User Groups](https://world-wide-jugs.github.io/GlobalWWJugs/)

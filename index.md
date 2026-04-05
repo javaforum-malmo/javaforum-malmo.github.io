@@ -4,15 +4,15 @@
 
 Javaforum Malmö is the Java User Group in Malmö, Sweden. The goal is to arrange a physical meetup with local and international speakers once every quarter. Please join our [mailing list](https://groups.google.com/g/javaforum-malmo) so you don't miss out on announcements for upcoming events. We also have a [Slack workspace](https://join.slack.com/t/javaforum-sweden/shared_invite/zt-bvmaqxjp-qsWdnyJgDEtWXAYKZwruXg) for connecting with the local Java community.
 
-### Organizer
-
-- [Ivar Grimstad](https://www.linkedin.com/in/ivargrimstad/) \
-Reach out to me if you are interested in speaking at **Javaforum Malmö**.
-
 ## Events
 
 - [Eventbrite](https://www.eventbrite.com/o/121214358292)
 - [Past events](https://foocafe.org/)
+
+### Organizer
+
+- [Ivar Grimstad](https://www.linkedin.com/in/ivargrimstad/) \
+Reach out to me if you are interested in speaking at **Javaforum Malmö**.
 
 ## Follow us on Social Media
 

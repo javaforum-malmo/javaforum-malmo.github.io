@@ -55,7 +55,7 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 
 {{ event.description }}
 
-{% if event.speaker_name %}**{{ event.speaker_name }}**{% endif %}
+{% if event.speaker_name %}**{{ event.speaker_name }}**{% endif %} \
 {% if event.speaker_bio %} {{ event.speaker_bio }}{% endif %}
 
 ---

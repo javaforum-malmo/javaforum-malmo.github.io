@@ -19,7 +19,7 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 ### Upcoming Events
 
 {% for event in upcoming %}
-Javaforum Malmö - #### {{ event.title }}
+#### Javaforum Malmö - {{ event.title }}
 
 |---|---|
 | **Date** | {{ event.date | date: "%B %-d, %Y" }} |
@@ -45,7 +45,7 @@ Javaforum Malmö - #### {{ event.title }}
 ### Past Events
 
 {% for event in past %}
-Javaforum Malmö - #### {{ event.title }}
+#### Javaforum Malmö - {{ event.title }}
 
 |---|---|
 | **Date** | {{ event.date | date: "%B %-d, %Y" }} |

@@ -76,6 +76,38 @@
     
     **Ivar Grimstad** - is the Jakarta EE Developer Advocate at Eclipse Foundation. He is a Norwegian Java Champion and JUG Leader based in Sweden. Besides advocating the Jakarta EE technologies, Ivar is contributing to the Jakarta EE specifications as well as being the PMC Lead for Eclipse Enterprise for Java (EE4J). He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation in the JCP Executive Committee. Ivar is also involved in MicroProfile, Apache NetBeans, and a wide range of other open-source projects and communities. He is a frequent speaker at International developer conferences.
 
+- title: "Promising Future with Java 17, OpenJDK, and the Cloud"
+  date: "2021-11-16"
+  time: "17:15"
+  location: "Foo Café"
+  host: "Ivar Grimstad"
+  description: >
+    Java is still consistently rated in the top three most popular programming languages in use. 
+    The reason for this popularity extends beyond the syntax of the language to the power of the Java Virtual Machine (JVM). 
+    With its ability to handle internet-scale workloads, the JVM delivers the performance required for mission-critical enterprise applications. 
+    In this session, we’ll explore Java as it is in 2021. JDK 17 has just been released, the ninth (yes, ninth) release in four years. 
+    As a long-term support (LTS) release, this is one that many users will choose to use in production. 
+    We’ll review the significant new features developers will now be able to exploit as they develop their next applications. 
+    We’ve also seen a proliferation in the number of distributions of OpenJDK. 
+    We’ll talk about the factors to consider when choosing distribution and how to ensure you keep your Java runtimes as stable and secure as possible. 
+    We’ll finish with a look at how Java fits in the cloud and some of the performance issues to consider when moving to a microservices architecture. 
+    We’ll explain how you can lower your cloud infrastructure costs and reduce latency without changing a line of code. At the end of this talk, you’ll be all ready to use modern Java.
+  speaker_name: "Simon Ritter"
+  speaker_bio: >
+    is the Deputy CTO of Azul Systems. Simon has been in the IT business since 1984 and holds a Bachelor of Science degree in Physics from Brunel University in the U.K.  
+    Simon joined Sun Microsystems in 1996 and started working with Java technology from JDK 1.0; he has spent time working in both Java development and consultancy. 
+    Having moved to Oracle as part of the Sun acquisition, he managed the Java Evangelism team for the core Java platform. N
+    ow at Azul, he continues to help people understand Java as well as Azul’s JVM technologies and products. 
+    Simon has twice been awarded Java Rockstar status at JavaOne and is a Java Champion. 
+    He currently represents Azul on the Java SE Expert Group. \
+
+    **Ivar Grimstad** - is the Jakarta EE Developer Advocate at Eclipse Foundation. 
+    He is a Norwegian Java Champion and JUG Leader based in Sweden. 
+    Besides advocating the Jakarta EE technologies, Ivar is contributing to the Jakarta EE specifications as well as being the PMC Lead for Eclipse Enterprise for Java (EE4J). 
+    He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation in the JCP Executive Committee. 
+    Ivar is also involved in MicroProfile, Apache NetBeans, and a wide range of other open-source projects and communities. 
+    He is a frequent speaker at International developer conferences.
+
 #### format ####
 #- title: ""
 #  date: ""

@@ -7,7 +7,7 @@
     Speaker and topic will be announced soon.
  # registration_url: "https://www.eventbrite.com/o/121214358292"
 
-- title: "Javaforum Malmö - The Reputation Formula: Turbocharge Your Developer Career"
+- title: "The Reputation Formula: Turbocharge Your Developer Career"
   date: "2026-02-10"
   time: "17:15"
   location: "Foo Café"
@@ -22,7 +22,7 @@
     A recognized Java Evangelist and Java Champion, as well as a board member of the Java Community Process, Bruno founded and leads SouJava, the Brazilian Java Users Society. 
     In his book, 'Developer Career Masterplan', Bruno shares insights on career development for senior developers, topics he further explores in his Code4.life project.
 
-- title: "Javaforum Malmö - JVM in the Age of AI"
+- title: "JVM in the Age of AI"
   date: "2025-05-05"
   time: "17:15"
   location: "Foo Café"
@@ -159,6 +159,24 @@
     Ivar is also involved in various other open-source projects and communities. 
     He is a frequent speaker at International developer conferences.
 
+- title: "Microservices In Practice"
+  date: "2020-01-30"
+  time: "17:15"
+  location: "Foo Café"
+  host: "Ivar Grimstad"
+  description: >
+    Eclipse MicroProfile provides a set of APIs for creating cloud-native microservices. 
+    In this session, I will start with a blank sheet and build a set of well documented, configurable microservices that communicates with each other in a secure and fault-tolerant way using implementations from a wide range of vendors.
+
+    You will get an overview of the technologies and learn how to get started with Eclipse MicroProfile to create portable 12-factor microservices in an efficient manner.
+  speaker_name: "Ivar Grimstad"
+  speaker_bio: >
+    is the Jakarta EE Developer Advocate at Eclipse Foundation. 
+    He is a Norwegian Java Champion and JUG Leader based in Sweden.
+    Besides advocating for the Jakarta EE technologies, Ivar contributes to the Jakarta EE specifications and is the PMC Lead for Eclipse Enterprise for Java (EE4J). 
+    He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation on the JCP Executive Committee.
+    Ivar is also involved in various other open-source projects and communities. 
+    He is a frequent speaker at International developer conferences.
 #### format ####
 #- title: ""
 #  date: ""

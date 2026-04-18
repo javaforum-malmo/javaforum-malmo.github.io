@@ -61,4 +61,6 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 {% endfor %}
 {% endif %}
 
+*Earlier events are unfortunately lost at the moment due to the switching between platforms and providers. We are doing our best to recover them.*
+
 [← Back to home](/)

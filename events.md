@@ -25,7 +25,7 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 | **Date** | {{ event.date | date: "%B %-d, %Y" }} |
 | **Time** | {{ event.time }} |
 | **Location** | {{ event.location }} |
-| **Host** | [{{ event.host }}]({{ event.host_linkedin }}) |
+| **Host** | [{{ event.host }}](https://www.linkedin.com/in/{{ event.host_linkedin }}/){:target="_blank"} |
 
 {{ event.description }}
 
@@ -51,7 +51,7 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 | **Date** | {{ event.date | date: "%B %-d, %Y" }} |
 | **Time** | {{ event.time }} |
 | **Location** | {{ event.location }} |
-| **Host** | [{{ event.host }}]({{ event.host_linkedin }}) |
+| **Host** | [{{ event.host }}](https://www.linkedin.com/in/{{ event.host_linkedin }}/){:target="_blank"} |
 
 {{ event.description }}
 

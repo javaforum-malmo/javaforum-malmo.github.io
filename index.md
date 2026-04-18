@@ -1,4 +1,4 @@
-<a href="https://javaforum-malmo.github.io"><img src="/img/java_forum_malmo_1200_1200.jpg"></a>
+<a href="https://javaforum-malmo.github.io"><img src="/img/java_forum_malmo_1080px.png"></a>
 
 ## About
 

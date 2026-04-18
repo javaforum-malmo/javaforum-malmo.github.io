@@ -2,7 +2,8 @@
   date: "2026-05-20"
   time: "17:15"
   location: "TBD"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     Speaker and topic will be announced soon.
  # registration_url: "https://www.eventbrite.com/o/121214358292"
@@ -11,7 +12,8 @@
   date: "2026-02-10"
   time: "17:15"
   location: "Foo Café"
-  host: "vadym-novakovskyi"
+  host: "Vadym Novakovsky"
+  host_linkedin: "vadym-novakovskyi"
   description: >
     Get ready to level up your career in software development with the secret sauce just for developers - the "Reputation Formula" that can skyrocket your professional journey in the software world! 
     This presentation will break it all down for you, revealing the insider tips and tricks to shape your reputation as a software developer. 
@@ -26,7 +28,8 @@
   date: "2025-05-05"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     Are you tired of all the hype around yet another LLM-as-a-Service? 
     That's why I want to talk about something more interesting than just another tool for prompt engineers. 
@@ -44,7 +47,8 @@
   date: "2025-01-20"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     eBPF is transforming Linux system capabilities, enabling the extension of  the kernel with custom process schedulers, firewalls, and more. 
     Thanks to Java's recent native integration and a bit of compiler magic, we can now create these extensions directly in Java — and that's exactly what this talk is all about. 
@@ -65,7 +69,8 @@
   date: "2024-02-29"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     **Continuous Delivery Patterns** \
     
@@ -93,7 +98,8 @@
   date: "2023-11-22"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     **Wargames - Java vulnerabilities and why you should care** \
     
@@ -131,7 +137,8 @@
   date: "2021-11-16"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     Java is still consistently rated in the top three most popular programming languages in use. 
     The reason for this popularity extends beyond the syntax of the language to the power of the Java Virtual Machine (JVM). 
@@ -163,7 +170,8 @@
   date: "2020-01-30"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     Eclipse MicroProfile provides a set of APIs for creating cloud-native microservices. 
     In this session, I will start with a blank sheet and build a set of well documented, configurable microservices that communicates with each other in a secure and fault-tolerant way using implementations from a wide range of vendors.
@@ -182,7 +190,8 @@
   date: "2019-11-28"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     Reactive programming is all the rage nowadays and its non-blocking, low memory and CPU footprint is appealing in a world where we need more response systems and higher data throughput. 
     Java has good support for this kind of programming style and in this talk we’ll have a look at the Spring ecosystem and Project Reactor to see how we can leverage reactive applications on the JVM. 
@@ -197,7 +206,8 @@
   date: "2019-09-10"
   time: "17:15"
   location: "Foo Café"
-  host: "ivargrimstad"
+  host: "Ivar Grimstad"
+  host_linkedin: "ivargrimstad"
   description: >
     Join us to watch the brand new JakartaOne Livestream event together.
     Pizza and beverages will be served!

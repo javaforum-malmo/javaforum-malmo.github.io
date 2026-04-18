@@ -27,6 +27,16 @@
   speaker_name: "Artur Skowronski"
   speaker_bio: "Head of Java/Kotlin Engineering at VirtusLab, he has been in the industry for ten years. During this time, he has had the opportunity to work in various roles, such as Software Engineer, Tech Lead, Architect, and even Technical Product Manager. This diverse experience enables him to approach problems from a holistic perspective. He still loves to get his hands dirty - for more than two years, he has been publishing weekly reviews of events in the JVM world - https://vived.substack.com/"
 
+- title: "Sound of Scheduling: Writing Linux Schedulers in Java with EBPF"
+  date: "2025-01-20"
+  time: "17:15"
+  location: "Foo Café"
+  host: "Ivar Grimstad"
+  description: >
+    eBPF is transforming Linux system capabilities, enabling the extension of  the kernel with custom process schedulers, firewalls, and more. Thanks to Java's recent native integration and a bit of compiler magic, we can now create these extensions directly in Java — and that's exactly what this talk is all about. We'll cover the fundamentals of eBPF and scheduling and how to implement a custom scheduler in Java. The session will showcase a scheduler that visualizes scheduling through sound —  each process is mapped to a musical note, offering a fun and intuitive way to understand system activity. You’ll even get the chance to control the scheduling yourself using a MIDI keyboard. Join us to learn how to craft small eBPF programs in Java that you'll really like the sound of.
+  speaker_name: "Johannes Bechberger"
+  speaker_bio: "is a JVM developer working on profilers and their underlying technology in the SapMachine team at SAP. This includes improvements to async-profiler and its ecosystem, a website to view the different JFR event types, and improvements to the FirefoxProfiler,  making it usable in the Java world. He started at SAP in 2022 after two years of research studies at the KIT in Java security analyses. His work today comprises many open-source contributions and his blog, where he regularly writes on in-depth profiling and debugging topics. He also works on hello-ebpf, the first eBPF library for Java. Since 2023,  he's been touring Europe's Java User Groups and conferences, like  JavaZone and Devoxx Belgium, to speak on various topics."
+
 #### format ####
 #- title: ""
 #  date: ""

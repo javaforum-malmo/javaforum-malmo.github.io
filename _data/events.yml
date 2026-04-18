@@ -37,6 +37,19 @@
   speaker_name: "Johannes Bechberger"
   speaker_bio: "is a JVM developer working on profilers and their underlying technology in the SapMachine team at SAP. This includes improvements to async-profiler and its ecosystem, a website to view the different JFR event types, and improvements to the FirefoxProfiler,  making it usable in the Java world. He started at SAP in 2022 after two years of research studies at the KIT in Java security analyses. His work today comprises many open-source contributions and his blog, where he regularly writes on in-depth profiling and debugging topics. He also works on hello-ebpf, the first eBPF library for Java. Since 2023,  he's been touring Europe's Java User Groups and conferences, like  JavaZone and Devoxx Belgium, to speak on various topics."
 
+- title: "Continuous Delivery Patterns and 25 Years of the JCP"
+  date: "2024-02-29"
+  time: "17:15"
+  location: "Foo Café"
+  host: "Ivar Grimstad"
+  description: >
+    Continuous Delivery Patterns. When building modern service-based software products using continuous delivery, teams need to take a significantly different approach from how we previously did stuff. In this talk I’m examining some of the patterns I’ve seen, to unlock quick and iterative product development styles, delivering value to the customer as soon as possible without breaking clients’ compatibility.\
+    
+    **Bonus talk by Ivar Grimstad**: Can you believe that the JCP has turned 25 years old this year? That is a quarter of a century! Some of you may not have been born when the JCP was created in 1998.
+    We are able to celebrate this incredible milestone because of your passion, your love, your engagement, and your support for the Java language and community. We sincerely thank all of you for making it happen!
+  speaker_name: "Thomas Lundström"
+  speaker_bio: "is an Engineering Manager at Sinch, based in Malmö, Sweden. With 20 years of experience in the Software Engineering realm, from startups up to multinational tech companies, he currently deals more with recruitment, architecture, and team-based performance than actual code :( but he finds JavaForum and Foo Cafe the perfect place to keep his hacking skills up-to-date."
+
 #### format ####
 #- title: ""
 #  date: ""

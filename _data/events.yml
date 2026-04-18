@@ -26,3 +26,15 @@
     Are you tired of all the hype around yet another LLM-as-a-Service? That's why I want to talk about something more interesting than just another tool for prompt engineers. While the entire industry is discussing it, my goal is to explain what needs to happen within the virtual machine for the JVM to become a good platform for Machine Learning and AI. We will discuss hardware and the challenges its evolution poses for the JVM, projects like Valhalla and Babylon, as well as standardization efforts like the JSR381 Visual Recognition API. We will also look at initiatives like TornadoVM. This will be an overall birds-eye view to understand how the JVM can meet the demands of contemporary artificial intelligence and machine learning.  
   speaker_name: "Artur Skowronski"
   speaker_bio: "Head of Java/Kotlin Engineering at VirtusLab, he has been in the industry for ten years. During this time, he has had the opportunity to work in various roles, such as Software Engineer, Tech Lead, Architect, and even Technical Product Manager. This diverse experience enables him to approach problems from a holistic perspective. He still loves to get his hands dirty - for more than two years, he has been publishing weekly reviews of events in the JVM world - https://vived.substack.com/"
+
+#### format ####
+#- title: ""
+#  date: ""
+#  time: "1"
+#  location: ""
+#  host: ""
+#  description: >
+#    
+#  speaker_name: ""
+#  speaker_bio: ""
+

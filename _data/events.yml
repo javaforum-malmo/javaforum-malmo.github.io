@@ -45,9 +45,9 @@
   description: >
     **Continuous Delivery Patterns** \
     
-    When building modern service-based software products using continuous delivery, teams need to take a significantly different approach from how we previously did stuff. In this talk I’m examining some of the patterns I’ve seen, to unlock quick and iterative product development styles, delivering value to the customer as soon as possible without breaking clients’ compatibility. \
+    When building modern service-based software products using continuous delivery, teams need to take a significantly different approach from how we previously did stuff. In this talk, I am examining some of the patterns I have seen to unlock quick and iterative product development styles, delivering value to the customer as soon as possible without breaking client compatibility. \
     
-    **JCP 25 Years** \ 
+    **JCP 25 Years** \
     
     Can you believe that the JCP has turned 25 years old this year? That is a quarter of a century! Some of you may not have been born when the JCP was created in 1998.
     We are able to celebrate this incredible milestone because of your passion, your love, your engagement, and your support for the Java language and community. We sincerely thank all of you for making it happen!

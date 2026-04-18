@@ -177,6 +177,22 @@
     He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation on the JCP Executive Committee.
     Ivar is also involved in various other open-source projects and communities. 
     He is a frequent speaker at International developer conferences.
+
+- title: "Reactive Programming with Spring"
+  date: "2019-11-28"
+  time: "17:15"
+  location: "Foo Café"
+  host: "Ivar Grimstad"
+  description: >
+    Reactive programming is all the rage nowadays and its non-blocking, low memory and CPU footprint is appealing in a world where we need more response systems and higher data throughput. 
+    Java has good support for this kind of programming style and in this talk we’ll have a look at the Spring ecosystem and Project Reactor to see how we can leverage reactive applications on the JVM. 
+    The talk will give an introduction to reactive programming and we’ll look at examples in Java and Kotlin. We’ll also discuss some pros and cons of this approach to coding as well as looking into what the future may hold.
+  speaker_name: "Johan Haleby"
+  speaker_bio: >
+    is a developer, speaker, and blogger with a profound interest in software engineering, distributed systems and architecture. 
+    Johan strives to write simple and reliable systems that survives production hazards. 
+    He has founded and contributed to numerous open source projects such as PowerMock, REST Assured and Awaitility and has spoken at several international conferences and user groups.
+
 #### format ####
 #- title: ""
 #  date: ""

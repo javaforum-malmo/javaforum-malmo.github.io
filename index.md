@@ -20,7 +20,7 @@ Reach out to me if you are interested in speaking at **Javaforum Malmö**.
 - [ X ](https://x.com/javaforum)
 - [LinkedIn (Javaforum Sweden)](https://www.linkedin.com/groups/128453/)
 
-## Other Java User Groups
+## Other Java User Groups in Sweden
 
 ### Sweden
 - [Jforum Stockholm](https://www.meetup.com/jforum-stockholm/)

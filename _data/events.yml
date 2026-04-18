@@ -1,0 +1,35 @@
+- title: "Javaforum Malmö — Spring 2025"
+  date: "2025-04-10"
+  time: "17:30"
+  location: "Foo Cafe, Stormgatan 14, Malmö"
+  description: >
+    An evening of Java talks featuring the latest developments in the Java ecosystem.
+    Join us for inspiring presentations and networking.
+  registration_url: "https://www.eventbrite.com/o/121214358292"
+
+- title: "Javaforum Malmö — Summer 2025"
+  date: "2025-06-19"
+  time: "17:30"
+  location: "Foo Cafe, Stormgatan 14, Malmö"
+  description: >
+    Our summer meetup with talks on modern Java features and cloud-native development.
+    Light refreshments will be served.
+  registration_url: "https://www.eventbrite.com/o/121214358292"
+
+- title: "Javaforum Malmö — Autumn 2025"
+  date: "2025-10-02"
+  time: "17:30"
+  location: "Foo Cafe, Stormgatan 14, Malmö"
+  description: >
+    Back after the summer with new speakers and fresh topics.
+    Come learn, share knowledge and meet fellow Java developers.
+  registration_url: "https://www.eventbrite.com/o/121214358292"
+
+- title: "Javaforum Malmö — Winter 2025"
+  date: "2025-12-11"
+  time: "17:30"
+  location: "Foo Cafe, Stormgatan 14, Malmö"
+  description: >
+    Our end-of-year meetup — a great chance to wrap up 2025 with the local Java community.
+    Seasonal fika included!
+  registration_url: "https://www.eventbrite.com/o/121214358292"

@@ -193,6 +193,15 @@
     Johan strives to write simple and reliable systems that survives production hazards. 
     He has founded and contributed to numerous open source projects such as PowerMock, REST Assured and Awaitility and has spoken at several international conferences and user groups.
 
+- title: "JakartaOne Livestream Streaming"
+  date: "2019-09-10"
+  time: "17:15"
+  location: "Foo Café"
+  host: ""
+  description: >
+    Join us to watch the brand new JakartaOne Livestream event together.
+    Pizza and beverages will be served!
+
 #### format ####
 #- title: ""
 #  date: ""

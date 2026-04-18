@@ -29,9 +29,6 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 
 {{ event.description }}
 
-**{{ event.speaker.name }}**
-{{ event.speaker.bio }}
-
 {% if event.registration_url %}[Register now]({{ event.registration_url }}){%- endif %}
 
 ---

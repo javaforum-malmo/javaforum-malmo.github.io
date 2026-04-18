@@ -21,7 +21,6 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 {% for event in upcoming %}
 #### {{ event.title }}
 
-| | | |
 |---|---|
 | **Date** | {{ event.date | date: "%B %-d, %Y" }} |
 | **Time** | {{ event.time }} |
@@ -48,7 +47,6 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow u
 {% for event in past %}
 #### {{ event.title }}
 
-| | | |
 |---|---|
 | **Date** | {{ event.date | date: "%B %-d, %Y" }} |
 | **Time** | {{ event.time }} |

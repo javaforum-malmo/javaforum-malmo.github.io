@@ -7,6 +7,7 @@ Javaforum Malmö is the Java User Group in Malmö, Sweden. The goal is to arrang
 ## Events
 
 - [Upcoming & past events](/events/)
+- [Javaforum on Eventbrite](https://www.eventbrite.com/o/javaforum-malmo-121214358292){:target="_blank"}
 
 ### Organizer
 

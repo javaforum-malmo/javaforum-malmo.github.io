@@ -20,9 +20,10 @@ Reach out to me if you are interested in speaking at **Javaforum Malmö**.
 - [ X ](https://x.com/javaforum)
 - [LinkedIn (Javaforum Sweden)](https://www.linkedin.com/groups/128453/)
 
-## Other Java User Groups in Sweden
+## Other Java User Groups
 
 ### Sweden
+We collaborate with the Swedish Java User Groups and will be happy to set up a series of events if you wish to go on a Swedish tour.
 - [Jforum Stockholm](https://www.meetup.com/jforum-stockholm/)
 - [Javaforum Göteborg](https://www.meetup.com/javaforum-goteborg/)
 - [Umedev Community](https://www.meetup.com/umejug/)

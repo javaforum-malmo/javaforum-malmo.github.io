@@ -29,5 +29,5 @@ We collaborate with the Swedish Java User Groups and will be happy to set up a s
 - [Umedev Community](https://www.meetup.com/umejug/){:target="_blank"} 
 
 ### World Wide
-- [Java User Groups](https://dev.java/community/jugs/) ([Dev.java](https://dev.java/)){:target="_blank"} 
+- [Java User Groups](https://dev.java/community/jugs/){:target="_blank"} ([Dev.java](https://dev.java/){:target="_blank"})
 - [Worldwide list of Java User Groups](https://world-wide-jugs.github.io/GlobalWWJugs/){:target="_blank"} 

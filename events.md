@@ -9,7 +9,7 @@ permalink: /events/
 ## Events
 
 Javaforum Malmö arranges physical meetups with local and international speakers approximately once every quarter.
-Join our [mailing list](https://groups.google.com/g/javaforum-malmo) or follow us on social media so you don't miss out on upcoming events.
+Join our [mailing list](https://groups.google.com/g/javaforum-malmo){:target="_blank"}  or follow us on social media so you don't miss out on upcoming events.
 
 {% assign today = site.time | date: "%Y-%m-%d" %}
 {% assign upcoming = site.data.events | where_exp: "event", "event.date >= today" | sort: "date" %}

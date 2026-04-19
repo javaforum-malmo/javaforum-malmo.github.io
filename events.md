@@ -31,7 +31,7 @@ Join our [mailing list](https://groups.google.com/g/javaforum-malmo){:target="_b
 
 {% if event.speaker_name %}**{{ event.speaker_name }}** - {% endif %}{% if event.speaker_bio %} {{ event.speaker_bio }}{% endif %}
 
-{% if event.registration_url %}[Register now]({{ event.registration_url }}){%- endif %}
+{% if event.registration_url %}[Register now]({{ event.registration_url }}){:target="_blank"}{%- endif %}
 
 ---
 {% endfor %}

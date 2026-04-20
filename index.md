@@ -2,7 +2,7 @@
 
 ## About
 
-Javaforum Malmö is the Java User Group in Malmö, Sweden. The goal is to arrange a physical meetup with local and international speakers once every quarter. Please join our [mailing list](https://groups.google.com/g/javaforum-malmo){:target="_blank"}  so you don't miss out on announcements for upcoming events. We also have a [Slack workspace](https://join.slack.com/t/javaforum-sweden/shared_invite/zt-bvmaqxjp-qsWdnyJgDEtWXAYKZwruXg){:target="_blank"}  for connecting with the local Java community.
+**Javaforum Malmö is the Java User Group in Malmö, Sweden.** The goal is to arrange a physical meetup with local and international speakers once every quarter. Please join our [mailing list](https://groups.google.com/g/javaforum-malmo){:target="_blank"}  so you don't miss out on announcements for upcoming events. We also have a [Slack workspace](https://join.slack.com/t/javaforum-sweden/shared_invite/zt-bvmaqxjp-qsWdnyJgDEtWXAYKZwruXg){:target="_blank"}  for connecting with the local Java community.
 
 ## Events
 

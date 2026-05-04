@@ -1,11 +1,24 @@
-- title: "Q2 2026"
+- title: "Augmenting AI with the Power of Jakarta EE"
   date: "2026-05-20"
   time: "17:15"
   location: "TBD"
   host: "Ivar Grimstad"
   host_linkedin: "ivargrimstad"
   description: >
-    Speaker and topic will be announced soon.
+    Building production-grade AI requires more than a model. 
+    It requires an ecosystem. The Java Community provides this ecosystem for the modern enterprise. 
+    Paired with Jakarta EE, it creates a formidable platform for AI Augmentation.
+
+    In this session, I will show how to orchestrate enterprise-ready AI agents using Jakarta EE technologies in combination with AI augmentation aproaches such as tools, 
+    skills, and MCP to name a few.
+  speaker_name: "Ivar Grimstad"
+  speaker_bio: >
+    is the Jakarta EE Developer Advocate at Eclipse Foundation. 
+    He is a Norwegian Java Champion and JUG Leader based in Sweden.
+    Besides advocating for the Jakarta EE technologies, Ivar contributes to the Jakarta EE specifications and is the PMC Lead for Eclipse Enterprise for Java (EE4J). 
+    He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation on the JCP Executive Committee.
+    Ivar is also involved in various other open-source projects and communities. 
+    He is a frequent speaker at International developer conferences.
  # registration_url: "https://www.eventbrite.com/o/121214358292"
 
 - title: "The Reputation Formula: Turbocharge Your Developer Career"
